@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My research was featured in [UvA News](https://www.uva.nl/en/content/news/news/2026/06/ai-still-struggles-to-get-the-joke.html).
+My research was covered in [UvA News](https://www.uva.nl/en/content/news/news/2026/06/ai-still-struggles-to-get-the-joke.html).
