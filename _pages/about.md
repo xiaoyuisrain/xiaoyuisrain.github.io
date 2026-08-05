@@ -25,7 +25,7 @@ latest_posts:
 ---
 
 I am a computational linguist working on large language models (LLMs) as cognitive agents.
-My research interests include LLM alignment, evaluation, multimodality, interpretability, as well as language and cognition.
+My research interests include LLM alignment, evaluation, multimodality, embodiment, interpretability, as well as language and cognition.
 My current projects revolve around LLMs' capabilities to process figurative or non-literal meaning.
 
 I obtained my PhD at the University of Amsterdam,
