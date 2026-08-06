@@ -186,12 +186,12 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
     output: true
+#   books:
+#     output: true
 #   projects:
 #     output: true
 #   teachings:
@@ -234,6 +234,8 @@ exclude:
   - _pages/about_einstein.md
   - _pages/teaching.md
   - _pages/projects.md
+  - _pages/books.md
+  - _pages/dropdown.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -331,8 +333,8 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+#   books:
+#     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
