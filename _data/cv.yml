@@ -1,189 +1,247 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Xiaoyu Tong
+  label: Computational Linguist
+  email: xiaoyuisrain@outlook.com
+  location: China
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  # summary: ""
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: xiaoyuisrain
     - network: LinkedIn
-      username: example
+      username: xiaoyu-tong-7a280b1a9
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  # address:
+  #   street: 2712 Broadway St
+  #   city: San Francisco
+  #   region: California
+  #   postalCode: CA 94115
+  #   countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Amsterdam
+        location: Amsterdam, NL
+        # url: https://www.uva.nl/
+        area: Natural Language Processing
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2021
+        end_date: 2026
         score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        courses: ""
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: University of Amsterdam
+        location: Amsterdam, NL
+        area: Brain and Cognitive Sciences
+        studyType: Master of Science
+        start_date: 2018
+        end_date: 2021
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
+
+      - institution: Xiamen University
+        location: Xiamen, China
+        area: Linguistics
+        studyType: Master of Arts
+        start_date: 2014
+        end_date: 2017
+
+      - institution: Xiamen University
+        location: Xiamen, China
+        area: Chinese Linguistics
+        studyType: Minor
+        start_date: 2012
+        end_date: 2014
+
+      - institution: Xiamen University
+        location: Xiamen, China
+        area: English
+        studyType: Bachelor of Arts
+        start_date: 2010
+        end_date: 2014
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Institute for Logic, Language and Computation, University of Amsterdam
+        position: Guest Researcher
+        location: Amsterdam, NL
+        start_date: 2026
+        end_date: now
+        summary: Investigate cultural alignment of large language models.
+
+      - company: Faculty of Science, University of Amsterdam
+        position: PhD Researcher
+        location: Amsterdam, NL
+        start_date: 2021
+        end_date: 2026
+        summary: Studied the capabilities of large language models to process metaphor and humor.
         highlights:
-          - Relativity
-          - Description 2.
+          - Created datasets containing 10k manual annotations.
+          - Designed evaluation frameworks for monomodal and multimodal large language models.
+          - Probed and fine-tuned large language models.
+          - Analysed human data and model outputs using quantitative and qualitative methods.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Institute for Logic, Language and Computation, University of Amsterdam
+        position: Research Intern
+        location: Amsterdam, NL
+        start_date: 2020
+        end_date: 2021
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+    # Awards:
+    #   - title: Nobel Prize in Physics
+    #     authors:
+    #       - "Royal Swedish Academy of Sciences"
+    #     date: 1921-11-01
+    #     awarder: Royal Swedish Academy of Sciences
+    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    #   - title: Max Planck Medal
+    #     authors:
+    #       - "German Physical Society"
+    #     date: 2029
+    #     awarder: German Physical Society
+    #     summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Dissecting incongruity: Metaphor and humor understanding of large language models"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Xiaoyu Tong
+        publisher: University of Amsterdam
+        releaseDate: 2026-07-03
+        url: https://hdl.handle.net/11245.1/0bfb1d70-c5e8-4538-a554-d4c0e2ec0980
+        #summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Hummus: A Dataset of Humorous Multimodal Metaphor Use"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Xiaoyu Tong
+          - Zhi Zhang
+          - Pia Sommerauer
+          - Martha Lewis
+          - Ekaterina Shutova
+        publisher: arXiv
+        releaseDate: 2026-06-08
+        url: https://arxiv.org/abs/2504.02983
+        #summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: A framework for annotating and modelling intentions behind metaphor use
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Gianluca Michelli
+          - Xiaoyu Tong
+          - Ekaterina Shutova
+        publisher: "The 15th Joint Conference on Lexical and Computational Semantics (*SEM 2026)"
+        releaseDate: 2026-07-03
+        url: https://aclanthology.org/2026.starsem-conference.4/
+        #summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+
+      - title: Metaphor Understanding Challenge Dataset for LLMs
+        authors:
+          - Xiaoyu Tong
+          - Rochelle Choenni
+          - Martha Lewis
+          - Ekaterina Shutova
+        publisher: "The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024: Long Papers)"
+        releaseDate: 2024-08-11
+        url: https://aclanthology.org/2024.acl-long.193/
+
+      - title: "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
+        authors:
+          - Aarohi Srivastava
+          - et al.
+        publisher: Transactions on Machine Learning Research
+        releaseDate: 2023-05-12
+        url: https://arxiv.org/abs/2206.04615
+
+      - title: "Recent advances in neural metaphor processing: A linguistic, cognitive and social perspective"
+        authors:
+          - Xiaoyu Tong
+          - Ekaterina Shutova
+          - Martha Lewis
+        publisher: "The 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2021)"
+        releaseDate: 2021-06-06
+        url: https://aclanthology.org/2021.naacl-main.372/
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Programming
+        #level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Python (Transformers, PyTorch, PEFT, Pandas, Seaborn), Bash, JavaScript, R"
+
+      - name: Formatting & Graphic Design
+        icon: fa-solid fa-hashtag
+        keywords: "LaTeX, JSON, HTML, XML, Inkscape"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Mandarin Chinese
+        summary: "Native"
 
       - name: English
         summary: "Fluent"
 
+      - name: Japanese
+        summary: "Conversational"
+
     Interests:
-      - name: Physics
+      - name: Artificial Intelligence
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Alignment, Evaluation, Multimodality, Interpretability, AI for Humanity"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Linguistics
         icon: fa-solid fa-tag
+        keywords: "Metaphor, Humor, Figurative Language, Multimodal Communication, Semantics, Pragmatics"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Cognitive Science
+        icon: fa-solid fa-tag
+        keywords: "Embodied Cognition, Conceptualization, Categorization"
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    #   - name: Quantum Computing
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-tag
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    #   - name: Quantum Information
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-envelope
+
+    # Projects:
+    #   - name: Quantum Computing
+    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #     highlights:
+    #       - Quantum Teleportation
+    #       - Quantum Cryptography
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
+
+    # References:
+    #   - name: Professor John Doe
+    #     icon: fa-solid fa-laptop
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+    #   - name: Professor Jane Smith
+    #     icon: fa-solid fa-thumbtack
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
