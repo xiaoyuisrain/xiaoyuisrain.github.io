@@ -202,11 +202,11 @@ cv:
     Interests:
       - name: Artificial Intelligence
         icon: fa-solid fa-tag
-        keywords: "Alignment, Evaluation, Multimodality, Interpretability, AI for Humanity"
+        keywords: "Alignment, Evaluation, Multimodality, Interpretability, Data Annotation, AI for Humanity"
 
       - name: Linguistics
         icon: fa-solid fa-tag
-        keywords: "Metaphor, Humor, Figurative Language, Multimodal Communication, Semantics, Pragmatics"
+        keywords: "Metaphor, Humor, Figurative Language, Multimodal Communication, Semantics, Pragmatics, Corpus Linguistics"
 
       - name: Cognitive Science
         icon: fa-solid fa-tag
