@@ -1,9 +1,9 @@
 cv:
   name: Xiaoyu Tong
-  label: Computational Linguist
+  # label: Computational Linguist
   email: xiaoyuisrain@outlook.com
   location: China
-  image: ""
+  # image: ""
   # summary: ""
 
   social_networks:
@@ -70,7 +70,7 @@ cv:
         position: Guest Researcher
         location: Amsterdam, NL
         start_date: 2026
-        end_date: now
+        end_date: "present"
         summary: Investigate cultural alignment of large language models.
 
       - company: Faculty of Science, University of Amsterdam
