@@ -1,8 +1,9 @@
 cv:
   name: Xiaoyu Tong
   # label: Computational Linguist
-  email: xiaoyuisrain@outlook.com
   location: China
+  email: xiaoyuisrain@outlook.com
+  website: https://xiaoyuisrain.github.io/
   # image: ""
   # summary: ""
 
@@ -23,33 +24,30 @@ cv:
     Education:
       - institution: University of Amsterdam
         location: Amsterdam, NL
-        # url: https://www.uva.nl/
         area: Natural Language Processing
-        studyType: PhD
-        start_date: 2021
-        end_date: 2026
-        score: ""
-        courses: ""
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
+        degree: PhD
+        start_date: 2021-09
+        end_date: 2026-07
+        highlights:
+          - "Thesis: *Dissecting incongruity: Metaphor and humor understanding of large language models*"
+          - "Supervisors: Dr Ekaterina Shutova, Dr Martha Lewis"
 
       - institution: University of Amsterdam
         location: Amsterdam, NL
         area: Brain and Cognitive Sciences
-        studyType: Master of Science
-        start_date: 2018
-        end_date: 2021
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
+        degree: MSc
+        start_date: 2018-09
+        end_date: 2021-03
+        highlights:
+          - "Research thesis: *Metaphor paraphrasing and word-sense disambiguation: toward a new approach to automated metaphor processing*"
+          - "Literature thesis: *The potentiality of computational metaphor identification systems for studying human metaphor processing*"
 
       - institution: Xiamen University
         location: Xiamen, China
         area: Linguistics
-        studyType: Master of Arts
-        start_date: 2014
-        end_date: 2017
+        degree: MA
+        start_date: 2014-09
+        end_date: 2017-07
 
       - institution: Xiamen University
         location: Xiamen, China
@@ -60,8 +58,8 @@ cv:
 
       - institution: Xiamen University
         location: Xiamen, China
-        area: English
-        studyType: Bachelor of Arts
+        area: English Language and Literature
+        degree: BA
         start_date: 2010
         end_date: 2014
 
@@ -124,7 +122,7 @@ cv:
     Publications:
       - title: "Dissecting incongruity: Metaphor and humor understanding of large language models"
         authors:
-          - Xiaoyu Tong
+          - "*Xiaoyu Tong*"
         publisher: University of Amsterdam
         releaseDate: 2026-07-03
         url: https://hdl.handle.net/11245.1/0bfb1d70-c5e8-4538-a554-d4c0e2ec0980
@@ -132,7 +130,7 @@ cv:
 
       - title: "Hummus: A Dataset of Humorous Multimodal Metaphor Use"
         authors:
-          - Xiaoyu Tong
+          - "*Xiaoyu Tong*"
           - Zhi Zhang
           - Pia Sommerauer
           - Martha Lewis
@@ -145,7 +143,7 @@ cv:
       - title: A framework for annotating and modelling intentions behind metaphor use
         authors:
           - Gianluca Michelli
-          - Xiaoyu Tong
+          - "*Xiaoyu Tong*"
           - Ekaterina Shutova
         publisher: "The 15th Joint Conference on Lexical and Computational Semantics (*SEM 2026)"
         releaseDate: 2026-07-03
@@ -154,7 +152,7 @@ cv:
 
       - title: Metaphor Understanding Challenge Dataset for LLMs
         authors:
-          - Xiaoyu Tong
+          - "*Xiaoyu Tong*"
           - Rochelle Choenni
           - Martha Lewis
           - Ekaterina Shutova
@@ -172,7 +170,7 @@ cv:
 
       - title: "Recent advances in neural metaphor processing: A linguistic, cognitive and social perspective"
         authors:
-          - Xiaoyu Tong
+          - "*Xiaoyu Tong*"
           - Ekaterina Shutova
           - Martha Lewis
         publisher: "The 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2021)"
@@ -180,14 +178,11 @@ cv:
         url: https://aclanthology.org/2021.naacl-main.372/
 
     Skills:
-      - name: Programming
-        #level: Master
-        icon: fa-solid fa-hashtag
+      - name: "Programming"
         keywords: "Python (Transformers, PyTorch, PEFT, Pandas, Seaborn), Bash, JavaScript, R"
 
       - name: Formatting & Graphic Design
-        icon: fa-solid fa-hashtag
-        keywords: "LaTeX, JSON, HTML, XML, Inkscape"
+        keywords: LaTeX, JSON, HTML, XML, Inkscape
 
     Languages:
       - name: Mandarin Chinese
@@ -201,16 +196,13 @@ cv:
 
     Interests:
       - name: Artificial Intelligence
-        icon: fa-solid fa-tag
-        keywords: "Alignment, Evaluation, Multimodality, Interpretability, Data Annotation, AI for Humanity"
+        keywords: Evaluation, Human-AI Interaction, Human-Centered AI, LLM
 
       - name: Linguistics
-        icon: fa-solid fa-tag
-        keywords: "Metaphor, Humor, Figurative Language, Multimodal Communication, Semantics, Pragmatics, Corpus Linguistics"
+        keywords: Figurative Language, Humor, Multimodal Communication, Semantics, Pragmatics, Corpus Linguistics, Functional Linguistics
 
       - name: Cognitive Science
-        icon: fa-solid fa-tag
-        keywords: "Embodied Cognition, Conceptualization, Categorization"
+        keywords: Embodied Cognition, Conceptualization, Categorization
 
     # Certificates:
     #   - name: Machine Learning
