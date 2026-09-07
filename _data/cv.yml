@@ -1,7 +1,7 @@
 cv:
   name: Xiaoyu Tong
   # label: Computational Linguist
-  location: China
+  location: Wuhan, China
   email: xiaoyuisrain@outlook.com
   website: https://xiaoyuisrain.github.io/
   # image: ""
@@ -23,217 +23,211 @@ cv:
   sections:
     Education:
       - institution: University of Amsterdam
-        location: Amsterdam, NL
         area: Natural Language Processing
         degree: PhD
+        date: 2026-07
         start_date: 2021-09
         end_date: 2026-07
-        highlights:
-          - "Thesis: *Dissecting incongruity: Metaphor and humor understanding of large language models*"
-          - "Supervisors: Dr Ekaterina Shutova, Dr Martha Lewis"
-
-      - institution: University of Amsterdam
         location: Amsterdam, NL
+        summary:
+        highlights:
+          - "Thesis: *Dissecting Incongruity: Metaphor and Humor Understanding of Large Language Models*"
+          - "Supervisors: Dr. Ekaterina Shutova, Dr. Martha Lewis"
+          - "Committee: Prof. Dr. Rens Bod, Dr. Ekaterina Shutova, Dr. Martha Lewis, Prof. Dr. Katja Markert, Dr. Desmond Elliott, Prof. Dr. Khalil Sima'an, Dr. Jelke Bloem, Prof. Dr. Tobias Blanke"
+      - institution: University of Amsterdam
         area: Brain and Cognitive Sciences
         degree: MSc
+        date: 2021-03
         start_date: 2018-09
         end_date: 2021-03
+        location: Amsterdam, NL
+        summary:
         highlights:
-          - "Research thesis: *Metaphor paraphrasing and word-sense disambiguation: toward a new approach to automated metaphor processing*"
-          - "Literature thesis: *The potentiality of computational metaphor identification systems for studying human metaphor processing*"
-
+          #- "Thesis: *Metaphor Paraphrasing and Word-Sense Disambiguation: Toward a New Approach to Automated Metaphor Processing* (Grade 8.0/10.0)"
+          #- "Literature thesis: *The Potentiality of Computational Metaphor Identification Systems for Studying Human Metaphor Processing* (Grade 8.5/10.0)"
+          - "Thesis: *Metaphor Paraphrasing and Word-Sense Disambiguation: Toward a New Approach to Automated Metaphor Processing*"
+          - "Supervisors: Dr. Martha Lewis, Dr. Ekaterina Shutova"
       - institution: Xiamen University
-        location: Xiamen, China
         area: Linguistics
         degree: MA
+        date: 2017-07
         start_date: 2014-09
         end_date: 2017-07
-
-      - institution: Xiamen University
         location: Xiamen, China
-        area: Chinese Linguistics
-        studyType: Minor
-        start_date: 2012
-        end_date: 2014
-
-      - institution: Xiamen University
-        location: Xiamen, China
-        area: English Language and Literature
-        degree: BA
-        start_date: 2010
-        end_date: 2014
-
-    Experience:
-      - company: Institute for Logic, Language and Computation, University of Amsterdam
-        position: Guest Researcher
-        location: Amsterdam, NL
-        start_date: 2026
-        end_date: "present"
-        summary: Investigate cultural alignment of large language models.
-
-      - company: Faculty of Science, University of Amsterdam
-        position: PhD Researcher
-        location: Amsterdam, NL
-        start_date: 2021
-        end_date: 2026
-        summary: Studied the capabilities of large language models to process metaphor and humor.
+        summary:
         highlights:
-          - Created datasets containing 10k manual annotations.
-          - Designed evaluation frameworks for monomodal and multimodal large language models.
-          - Probed and fine-tuned large language models.
-          - Analysed human data and model outputs using quantitative and qualitative methods.
-
-      - company: Institute for Logic, Language and Computation, University of Amsterdam
-        position: Research Intern
+          - "Thesis: *The Writer's Operation of Extended Metaphor in Meaning Construction*"
+          - "Supervisor: Prof. Zhiying Xin"
+          #- "Rank 2/19"
+      - institution: Xiamen University
+        area: English
+        degree: BA
+        date: 2014-07
+        start_date: 2010-09
+        end_date: 2014-07
+        location: Xiamen, China
+        summary:
+        highlights:
+          - Minor in Chinese Linguistics
+          #- GPA 3.7/4.0
+    Experience:
+      - company: Independent Researcher
+        position: Postdoctoral Independent Researcher
+        date:
+        start_date: 2026-07
+        end_date: present
+        location: Remote
+        summary:
+        highlights:
+          - Research on LLMs' cultural alighment in humor processing, collaboration with Dr. Ekaterina Shutova and Dr. Martha Lewis at University of Amsterdam
+          - Research on application of LLMs in speech-language therapy for people with aphasia, collaboration with Dr. Jie Fu at Xingtai Medical College
+      - company: Faculty of Science, University of Amsterdam
+        position: Doctoral Researcher
+        date:
+        start_date: 2021-09
+        end_date: 2026-07
         location: Amsterdam, NL
-        start_date: 2020
-        end_date: 2021
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
-
-    # Volunteer:
-    #   - company: People's Climate March
-    #     position: Lead Organizer
-    #     location: Zurich, Switzerland
-    #     start_date: 2014-04-01
-    #     end_date: 2015-07-01
-    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-    #     highlights:
-    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-    #       - "Men of the year 2014 by Time magazine"
-
-    # Awards:
-    #   - title: Nobel Prize in Physics
-    #     authors:
-    #       - "Royal Swedish Academy of Sciences"
-    #     date: 1921-11-01
-    #     awarder: Royal Swedish Academy of Sciences
-    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-    #   - title: Max Planck Medal
-    #     authors:
-    #       - "German Physical Society"
-    #     date: 2029
-    #     awarder: German Physical Society
-    #     summary: Awarded for outstanding scientific achievement
-
+        summary: Conducted interdisciplinary research on evaluating LLMs' metaphor, humour, pragmatic, and cultural understanding in text and multimodal communication.
+        highlights:
+          - Created theory-driven benchmarks and evaluation protocols for testing linguistic, pragmatic, and cultural capabilities in unimodal and multimodal LLMs.
+          - Designed annotation schemes grounded in cognitive and linguistic theories, achieving high reliability (Gwet's AC1 0.84).
+          - Led cross-cultural behavioral studies involving 42K human responses across 4K textual and multimodal stimuli.
+          - Benchmarked frontier open- and closed-source models using prompting and fine-tuning approaches.
+          - Combined statistical analysis, error analysis, and qualitative interpretation to compare human and model behavior.
+          #- Produced 6 first-author manuscripts, 4 public benchmarks/datasets, and 4 presentations at leading international venues.
+          #- Designed novel evaluation frameworks for monomodal and multimodal LLMs
+          #- Developed robust data annotation schemes informed by linguistics theories, reaching high inter-annotator agreements (Gwet's AC1 0.84)
+          #- Conducted behavioral experiments across cultures, collecting 42K human responses to 4K text and multimodal data
+          #- Experimented on state-of-the-art open- and closed source LLMs using various prompting strategies and fine-tuning
+          #- Analyzed human data and model performance using quantitative and qualitative methods
+          #- First-authored 6 manuscripts, released 4 benchmarks and datasets, presented work in 4 top-tier venues
+      - company: "Institute for Logic, Language and Computation, University of Amsterdam"
+        position: Research Intern
+        date:
+        start_date: 2020-05
+        end_date: 2021-03
+        location: Amsterdam, NL
+        summary: #Developed linguistic resources and evaluation approaches for automated metaphor interpretation.
+        highlights:
+          - Reframed a widely used, theory-driven manual protocol for metaphor identification (MIPVU) as a word-sense disambiguation (WSD) problem, and operationalized this insight in a novel dataset and evaluation framework for automated metaphor interpretation.
+          - Created a resource that led to the BIG-bench metaphor-understanding benchmark and MUNCH project.
+    Teaching and Mentoring:
+      - bullet: Thesis Mentor, MSc Logic, University of Amsterdam (2023)
+      - bullet: Teaching Assistant, Introduction to the Philosophy of Language, MSc Logic, University of Amsterdam (2022)
+      - bullet: Teaching Assistant, Introduction to Linguistics, BA English, Xiamen University (2015 -- 2017)
+    Service:
+      - bullet: Reviewer, ACL Rolling Review (2024 -- present)
+      - bullet: "Reviewer, *IEEE Transactions on Audio, Speech and Language Processing* (2026)"
+      - bullet: "Reviewer, *Journal of Cognitive Psychology* (2025)"
+      - bullet: Reviewer, NAACL 2024 FigLang Workshop (2024)
+      - bullet: Member, Institute for Logic, Language and Computation (ILLC) PhD Council (2022 -- 2023)
     Publications:
-      - title: "Dissecting incongruity: Metaphor and humor understanding of large language models"
+      - title: "Evaluating LLMs' cultural alignment in humor appreciation"
         authors:
-          - "*Xiaoyu Tong*"
-        publisher: University of Amsterdam
-        releaseDate: 2026-07-03
+          - "**Xiaoyu Tong**"
+          - Ivo Verhoeven
+          - Martha Lewis
+          - Ekaterina Shutova
+        summary:
+        doi:
+        url:
+        journal: In Preparation
+        date: present
+      - title: "Dissecting Incongruity: Metaphor and Humor Understanding of Large Language Models"
+        authors:
+          - "**Xiaoyu Tong**"
+        summary:
+        doi:
         url: https://hdl.handle.net/11245.1/0bfb1d70-c5e8-4538-a554-d4c0e2ec0980
-        #summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
+        journal: University of Amsterdam
+        date: 2026
       - title: "Hummus: A Dataset of Humorous Multimodal Metaphor Use"
         authors:
-          - "*Xiaoyu Tong*"
+          - "**Xiaoyu Tong**"
           - Zhi Zhang
           - Pia Sommerauer
           - Martha Lewis
           - Ekaterina Shutova
-        publisher: arXiv
-        releaseDate: 2026-06-08
-        url: https://arxiv.org/abs/2504.02983
-        #summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
+        summary:
+        doi: 10.48550/arXiv.2504.02983
+        url: https://doi.org/10.48550/arXiv.2504.02983
+        journal: Conditionally accepted by TACL
+        date: 2026
       - title: A framework for annotating and modelling intentions behind metaphor use
         authors:
-          - Gianluca Michelli
-          - "*Xiaoyu Tong*"
+          - "Gianluca Michelli"
+          - "**Xiaoyu Tong** (co-first author)"
           - Ekaterina Shutova
-        publisher: "The 15th Joint Conference on Lexical and Computational Semantics (*SEM 2026)"
-        releaseDate: 2026-07-03
+        summary:
+        doi: 10.18653/v1/2026.starsem-conference.4
         url: https://aclanthology.org/2026.starsem-conference.4/
-        #summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
+        journal: "*SEM 2026"
+        date: 2026
       - title: Metaphor Understanding Challenge Dataset for LLMs
         authors:
-          - "*Xiaoyu Tong*"
+          - "**Xiaoyu Tong**"
           - Rochelle Choenni
           - Martha Lewis
           - Ekaterina Shutova
-        publisher: "The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024: Long Papers)"
-        releaseDate: 2024-08-11
+        summary:
+        doi: 10.18653/v1/2024.acl-long.193
         url: https://aclanthology.org/2024.acl-long.193/
-
+        journal: ACL 2024
+        date: 2024
       - title: "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
         authors:
           - Aarohi Srivastava
-          - et al.
-        publisher: Transactions on Machine Learning Research
-        releaseDate: 2023-05-12
-        url: https://arxiv.org/abs/2206.04615
-
+          - Abhinav Rastogi
+          - "... **Xiaoyu Tong**"
+          - "... Ziyi Wu"
+        summary:
+        doi:
+        url: https://openreview.net/forum?id=uyTL5Bvosj
+        journal: TMLR, Featured
+        date: 2023
       - title: "Recent advances in neural metaphor processing: A linguistic, cognitive and social perspective"
         authors:
-          - "*Xiaoyu Tong*"
+          - "**Xiaoyu Tong**"
           - Ekaterina Shutova
           - Martha Lewis
-        publisher: "The 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2021)"
-        releaseDate: 2021-06-06
+        summary:
+        doi: 10.18653/v1/2021.naacl-main.372
         url: https://aclanthology.org/2021.naacl-main.372/
-
+        journal: "NAACL 2021"
+        date: 2021
+    Projects:
+      - name: "Hummus: Dataset and benchmark of humorous multimodal metaphor use"
+        date: 2026
+        summary: "[github.com/xiaoyuisrain/humorous-multimodal-metaphor-use](https://github.com/xiaoyuisrain/humorous-multimodal-metaphor-use)"
+      - name: "MUNCH: Metaphor Understanding Challenge Dataset"
+        date: 2024
+        summary: "[github.com/xiaoyuisrain/metaphor-understanding-challenge](https://github.com/xiaoyuisrain/metaphor-understanding-challenge)"
+      - name: "Co-created dataset of intentions behind metaphor use"
+        date: 2024
+        summary: "[github.com/GMichelli/intentions-behind-metaphor](https://github.com/GMichelli/intentions-behind-metaphor)"
+      - name: "BIG-bench metaphor understanding benchmark task"
+        date: 2021
+        summary: "[github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/metaphor_understanding](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/metaphor_understanding)"
+      #- number: "[Hummus](https://github.com/xiaoyuisrain/humorous-multimodal-metaphor-use): Dataset and benchmark of humorous multimodal metaphor use"
     Skills:
-      - name: "Programming"
-        keywords: "Python (Transformers, PyTorch, PEFT, Pandas, Seaborn), Bash, JavaScript, R"
-
-      - name: Formatting & Graphic Design
-        keywords: LaTeX, JSON, HTML, XML, Inkscape
-
-    Languages:
-      - name: Mandarin Chinese
-        summary: "Native"
-
-      - name: English
-        summary: "Fluent"
-
-      - name: Japanese
-        summary: "Conversational"
-
+      - name: Programming and research computing
+        keywords: Python, R, Bash, Git/GitHub, JavaScript, HTML/CSS
+      - name: LLM research
+        keywords: Hugging Face Transformers, PyTorch, PEFT, programmatic API-based model evaluation workflows
+      - name: Experimental design, data collection and annotation
+        keywords: Prolific, Qualtrics, Labelbox, Amazon Mechanical Turk; web-based behavioral experiment and annotation interfaces; API-based study deployment, recruitment, and data collection
+      - name: Data processing and statistical analysis
+        keywords: reproducible data-processing pipelines; data cleaning, transformation, and quality control; regression modeling and statistical inference; publication-quality visualisation
+      - name: Dataset creation and research data management
+        keywords: JSON-based dataset design and processing; structured data handling
+      - name: Research communication and publication
+        keywords: LaTeX, Inkscape
+      - name: Human languages
+        keywords: Mandarin Chinese (native), English (fluent), Japanese (conversational)
     Interests:
       - name: Artificial Intelligence
-        keywords: Evaluation, Human-AI Interaction, Human-Centered AI, LLM
-
+        keywords: Evaluation, Human-AI Interaction, Human-Centered AI, LLM, World Model
       - name: Linguistics
-        keywords: Figurative Language, Humor, Multimodal Communication, Semantics, Pragmatics, Corpus Linguistics, Functional Linguistics
-
+        keywords: Figurative Language, Humor, Pragmatics, Corpus Linguistics
       - name: Cognitive Science
         keywords: Embodied Cognition, Conceptualization, Categorization
-
-    # Certificates:
-    #   - name: Machine Learning
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-location-dot
-
-    #   - name: Quantum Computing
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-tag
-
-    #   - name: Quantum Information
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-envelope
-
-    # Projects:
-    #   - name: Quantum Computing
-    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-    #     highlights:
-    #       - Quantum Teleportation
-    #       - Quantum Cryptography
-    #     start_date: 2018-01-01
-    #     end_date: 2018-01-01
-
-    # References:
-    #   - name: Professor John Doe
-    #     icon: fa-solid fa-laptop
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-    #   - name: Professor Jane Smith
-    #     icon: fa-solid fa-thumbtack
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
