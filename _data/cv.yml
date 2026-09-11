@@ -72,15 +72,15 @@ cv:
           #- GPA 3.7/4.0
     Experience:
       - company: Independent Researcher
-        position: Postdoctoral Independent Researcher
+        position: Independent Researcher
         date:
         start_date: 2026-07
         end_date: present
         location: Remote
         summary:
         highlights:
-          - Research on LLMs' cultural alighment in humor processing, collaboration with Dr. Ekaterina Shutova and Dr. Martha Lewis at University of Amsterdam
-          - Research on application of LLMs in speech-language therapy for people with aphasia, collaboration with Dr. Jie Fu at Xingtai Medical College
+          - Research on LLMs' cultural alignment in humour processing, collaboration with Dr Ekaterina Shutova and Dr Martha Lewis at University of Amsterdam
+          - Research on application of LLMs in speech-language therapy for people with aphasia, collaboration with Dr Jie Fu at Xingtai Medical College
       - company: Faculty of Science, University of Amsterdam
         position: Doctoral Researcher
         date:
@@ -91,16 +91,9 @@ cv:
         highlights:
           - Created theory-driven benchmarks and evaluation protocols for testing linguistic, pragmatic, and cultural capabilities in unimodal and multimodal LLMs.
           - Designed annotation schemes grounded in cognitive and linguistic theories, achieving high reliability (Gwet's AC1 0.84).
-          - Led cross-cultural behavioral studies involving 42K human responses across 4K textual and multimodal stimuli.
+          - Led cross-cultural behavioural studies involving 42K human responses across 4K textual and multimodal stimuli.
           - Benchmarked frontier open- and closed-source models using prompting and fine-tuning approaches.
-          - Combined statistical analysis, error analysis, and qualitative interpretation to compare human and model behavior.
-          #- Produced 6 first-author manuscripts, 4 public benchmarks/datasets, and 4 presentations at leading international venues.
-          #- Designed novel evaluation frameworks for monomodal and multimodal LLMs
-          #- Developed robust data annotation schemes informed by linguistics theories, reaching high inter-annotator agreements (Gwet's AC1 0.84)
-          #- Conducted behavioral experiments across cultures, collecting 42K human responses to 4K text and multimodal data
-          #- Experimented on state-of-the-art open- and closed source LLMs using various prompting strategies and fine-tuning
-          #- Analyzed human data and model performance using quantitative and qualitative methods
-          #- First-authored 6 manuscripts, released 4 benchmarks and datasets, presented work in 4 top-tier venues
+          - Combined statistical analysis, error analysis, and qualitative interpretation to compare human and model behaviour.
       - company: "Institute for Logic, Language and Computation, University of Amsterdam"
         position: Research Intern
         date:
@@ -109,8 +102,10 @@ cv:
         location: Amsterdam, NL
         summary: #Developed linguistic resources and evaluation approaches for automated metaphor interpretation.
         highlights:
-          - Reframed a widely used, theory-driven manual protocol for metaphor identification (MIPVU) as a word-sense disambiguation (WSD) problem, and operationalized this insight in a novel dataset and evaluation framework for automated metaphor interpretation.
+          - Reframed a widely used, theory-driven manual protocol for metaphor identification (MIPVU) as a word-sense disambiguation (WSD) problem, and operationalised this insight in a novel dataset and evaluation framework for automated metaphor interpretation.
           - Created a resource that led to the BIG-bench metaphor-understanding benchmark and MUNCH project.
+    Funding:
+      - bullet: China Scholarship Council Doctoral Scholarship (2021 -- 2025)
     Teaching and Mentoring:
       - bullet: Thesis Mentor, MSc Logic, University of Amsterdam (2023)
       - bullet: Teaching Assistant, Introduction to the Philosophy of Language, MSc Logic, University of Amsterdam (2022)
@@ -211,19 +206,24 @@ cv:
       #- number: "[Hummus](https://github.com/xiaoyuisrain/humorous-multimodal-metaphor-use): Dataset and benchmark of humorous multimodal metaphor use"
     Skills:
       - name: Programming and research computing
-        keywords: Python, R, Bash, Git/GitHub, JavaScript, HTML/CSS
-      - name: LLM research
-        keywords: Hugging Face Transformers, PyTorch, PEFT, programmatic API-based model evaluation workflows
-      - name: Experimental design, data collection and annotation
-        keywords: Prolific, Qualtrics, Labelbox, Amazon Mechanical Turk; web-based behavioral experiment and annotation interfaces; API-based study deployment, recruitment, and data collection
-      - name: Data processing and statistical analysis
-        keywords: reproducible data-processing pipelines; data cleaning, transformation, and quality control; regression modeling and statistical inference; publication-quality visualisation
+        keywords: Python, R, Bash, JavaScript, HTML/CSS, Git/GitHub
+      - name: LLM and VLM research
+        keywords: Hugging Face Transformers, PyTorch, PEFT; open-source model experimentation on remote high-performance computing (HPC) infrastructure; programmatic API-based evaluation of proprietary models; prompt engineering, fine-tuning, and reproducible evaluation workflows
       - name: Dataset creation and research data management
-        keywords: JSON-based dataset design and processing; structured data handling
+        keywords: dataset and annotation scheme design; JSON and other structured data formats; web data extraction
+      - name: Experimental design, data collection, and annotation
+        keywords: Qualtrics, Prolific, Amazon Mechanical Turk, Labelbox; web-based behavioural experiment and annotation interfaces; API-based study deployment, participant recruitment, and data collection
+      - name: Data processing and statistical analysis
+        keywords: reproducible data-processing pipelines; data cleaning, transformation, quality control, and validation; regression modelling and statistical inference; publication-quality data visualisation
       - name: Research communication and publication
         keywords: LaTeX, Inkscape
-      - name: Human languages
-        keywords: Mandarin Chinese (native), English (fluent), Japanese (conversational)
+    Languages:
+      - name: Mandarin Chinese
+        summary: Native
+      - name: English
+        summary: Full professional proficiency, academic working language
+      - name: Japanese
+        summary: Proficient reading; strong conversational listening and speaking; limited formal writing
     Interests:
       - name: Artificial Intelligence
         keywords: Evaluation, Human-AI Interaction, Human-Centered AI, LLM, World Model
