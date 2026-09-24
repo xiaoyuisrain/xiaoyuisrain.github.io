@@ -8,3 +8,4 @@ github_repos:
   - xiaoyuisrain/humorous-multimodal-metaphor-use
   - xiaoyuisrain/metaphor-understanding-challenge
   - GMichelli/intentions-behind-metaphor
+  - google/BIG-bench/tree/092b196c1f8f14a54bbc62f24759d43bde46dd3b/bigbench/benchmark_tasks/metaphor_understanding
