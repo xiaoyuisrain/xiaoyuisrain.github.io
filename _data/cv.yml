@@ -32,8 +32,7 @@ cv:
         summary:
         highlights:
           - "Thesis: *Dissecting Incongruity: Metaphor and Humor Understanding of Large Language Models*"
-          - "Supervisors: Dr. Ekaterina Shutova, Dr. Martha Lewis"
-          - "Committee: Prof. Dr. Rens Bod, Dr. Ekaterina Shutova, Dr. Martha Lewis, Prof. Dr. Katja Markert, Dr. Desmond Elliott, Prof. Dr. Khalil Sima'an, Dr. Jelke Bloem, Prof. Dr. Tobias Blanke"
+          - "Supervisors: Dr Ekaterina Shutova, Dr Martha Lewis"
       - institution: University of Amsterdam
         area: Brain and Cognitive Sciences
         degree: MSc
@@ -46,7 +45,7 @@ cv:
           #- "Thesis: *Metaphor Paraphrasing and Word-Sense Disambiguation: Toward a New Approach to Automated Metaphor Processing* (Grade 8.0/10.0)"
           #- "Literature thesis: *The Potentiality of Computational Metaphor Identification Systems for Studying Human Metaphor Processing* (Grade 8.5/10.0)"
           - "Thesis: *Metaphor Paraphrasing and Word-Sense Disambiguation: Toward a New Approach to Automated Metaphor Processing*"
-          - "Supervisors: Dr. Martha Lewis, Dr. Ekaterina Shutova"
+          - "Supervisors: Dr Martha Lewis, Dr Ekaterina Shutova"
       - institution: Xiamen University
         area: Linguistics
         degree: MA
@@ -92,7 +91,7 @@ cv:
           - Developed theory-driven datasets, benchmarks, and evaluation protocols for testing the linguistic, pragmatic, and cultural capabilities in unimodal and multimodal LLMs.
           - Designed cognitively and linguistically grounded annotation schemes for figurative, humorous, and multimodal data; led annotator training and quality assurance, achieving high inter-annotator agreements across datasets.
           - Designed, implemented, and coordinated cross-cultural behavioural studies involving 42K human responses across 4K textual and multimodal stimuli.
-          - Evaluated frontier open-weight and proprietary models models using prompting and fine-tuning approaches.
+          - Evaluated frontier open-weight and proprietary models using prompting and fine-tuning approaches.
           - Integrated statistical modelling, error analysis, and qualitative interpretation to characterise human-model alignment, identify systematic capability gaps, and explain variation in model performance.
       - company: "Institute for Logic, Language and Computation, University of Amsterdam"
         position: Research Intern
@@ -235,8 +234,8 @@ cv:
         summary: Proficient reading; strong conversational listening and speaking; limited formal writing
     Interests:
       - name: Artificial Intelligence
-        keywords: Evaluation, Human-AI Interaction, Human-Centered AI, LLM, World Model
+        keywords: Evaluation, Human-AI Interaction, Human-Centred AI, LLM, World Model
       - name: Linguistics
-        keywords: Figurative Language, Humor, Pragmatics, Corpus Linguistics
+        keywords: Figurative Language, Humour, Pragmatics, Corpus Linguistics
       - name: Cognitive Science
-        keywords: Embodied Cognition, Conceptualization, Categorization
+        keywords: Embodied Cognition, Conceptualisation, Categorisation
