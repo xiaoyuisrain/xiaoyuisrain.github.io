@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented our paper at \*SEM 2026.
+I presented [our paper](https://aclanthology.org/2026.starsem-conference.4/) at \*SEM 2026.
