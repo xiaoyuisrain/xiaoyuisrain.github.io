@@ -89,11 +89,11 @@ cv:
         location: Amsterdam, NL
         summary: Conducted interdisciplinary research on evaluating LLMs' metaphor, humour, pragmatic, and cultural understanding in text and multimodal communication.
         highlights:
-          - Created theory-driven benchmarks and evaluation protocols for testing linguistic, pragmatic, and cultural capabilities in unimodal and multimodal LLMs.
-          - Designed annotation schemes grounded in cognitive and linguistic theories, achieving high reliability (Gwet's AC1 0.84).
-          - Led cross-cultural behavioural studies involving 42K human responses across 4K textual and multimodal stimuli.
-          - Benchmarked frontier open- and closed-source models using prompting and fine-tuning approaches.
-          - Combined statistical analysis, error analysis, and qualitative interpretation to compare human and model behaviour.
+          - Developed theory-driven datasets, benchmarks, and evaluation protocols for testing the linguistic, pragmatic, and cultural capabilities in unimodal and multimodal LLMs.
+          - Designed cognitively and linguistically grounded annotation schemes for figurative, humorous, and multimodal data; led annotator training and quality assurance, achieving high inter-annotator agreements across datasets.
+          - Designed, implemented, and coordinated cross-cultural behavioural studies involving 42K human responses across 4K textual and multimodal stimuli.
+          - Evaluated frontier open-weight and proprietary models models using prompting and fine-tuning approaches.
+          - Integrated statistical modelling, error analysis, and qualitative interpretation to characterise human-model alignment, identify systematic capability gaps, and explain variation in model performance.
       - company: "Institute for Logic, Language and Computation, University of Amsterdam"
         position: Research Intern
         date:
@@ -204,6 +204,15 @@ cv:
         date: 2021
         summary: "[github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/metaphor_understanding](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/metaphor_understanding)"
       #- number: "[Hummus](https://github.com/xiaoyuisrain/humorous-multimodal-metaphor-use): Dataset and benchmark of humorous multimodal metaphor use"
+    Selected Presentations:
+      - bullet: "Invited talk on Hummus at [Large Language METAPHORS Online Workshop](https://www.youtube.com/watch?v=U3VYMdrvu54), IUSS Pavia (Mar 2026)"
+      - bullet: "Research featured in UvA News, ['AI still struggles to get the joke'](https://www.uva.nl/en/content/news/news/2026/06/ai-still-struggles-to-get-the-joke.html) (June 2026)"
+      #- name: "Invited talk on Hummus at Large Language METAPHORS Online Workshop, IUSS Pavia"
+      #  date: 2026-03
+      #  summary: "[youtube.com/watch?v=U3VYMdrvu54](https://www.youtube.com/watch?v=U3VYMdrvu54)"
+      #- name: Research featured in UvA News, 'AI still struggles to get the joke'
+      #  date: 2026-06
+      #  summary: "[uva.nl/en/content/news/news/2026/06/ai-still-struggles-to-get-the-joke.html](https://www.uva.nl/en/content/news/news/2026/06/ai-still-struggles-to-get-the-joke.html)"
     Skills:
       - name: Programming and research computing
         keywords: Python, R, Bash, JavaScript, HTML/CSS, Git/GitHub
